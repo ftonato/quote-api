@@ -2,6 +2,6 @@
 	"apiKey": "<your-api-key>",
 	"authDomain": "<your-auth-domain>",
 	"databaseURL": "<your-database-url>",
-	"storageBucket": "<your-storage-bucket>",
+	"projectId": "<your-project-id>",
 	"messagingSenderId": "<your-sender-id>"
 }

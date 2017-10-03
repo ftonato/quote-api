@@ -5,7 +5,7 @@ const db         = require('./app/config/db.json');
 const app        = express();
 
 const port  = 8000;
-const dbUrl = '';
+const dbUrl = db.databaseURL;
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
